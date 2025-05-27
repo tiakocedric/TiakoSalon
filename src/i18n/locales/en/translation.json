@@ -114,5 +114,29 @@
     "darkMode": "Dark Mode",
     "lightMode": "Light Mode",
     "language": "Language"
+  },
+  "profile": {
+    "title": "My Profile",
+    "personalInfo": "Personal Information",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "appointmentHistory": "Appointment History",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "accessDenied": "Access Denied",
+    "statistics": "Statistics",
+    "totalAppointments": "Total Appointments",
+    "totalStylists": "Total Stylists",
+    "activeClients": "Active Clients",
+    "manageStylists": "Manage Stylists",
+    "addStylist": "Add Stylist",
+    "viewAllStylists": "View All Stylists",
+    "manageServices": "Manage Services",
+    "addService": "Add Service",
+    "viewAllServices": "View All Services"
   }
 }
