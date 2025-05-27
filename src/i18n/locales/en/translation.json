@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "Coiffure+",
+    "fullName": "Coiffure+ by Tiako Salon"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "booking": "Book Now",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Expert Hair Braiding",
+      "subtitle": "100% Natural Hair Specialists",
+      "cta": "Book Now"
+    },
+    "services": {
+      "title": "Our Services",
+      "viewAll": "View All Services"
+    },
+    "about": {
+      "title": "About Tiako Salon",
+      "subtitle": "Oklahoma City's Premier Hair Braiding Salon",
+      "description": "Tiako Salon specializes in 100% natural hair braiding techniques, offering expert services for all hair types. Our certified stylists provide personalized care in a welcoming environment.",
+      "learnMore": "Learn More"
+    },
+    "testimonials": {
+      "title": "Client Testimonials",
+      "viewAll": "View All"
+    },
+    "cta": {
+      "title": "Ready for a New Style?",
+      "subtitle": "Book your appointment today",
+      "button": "Book Now"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Log In",
+      "email": "Email Address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "submit": "Log In",
+      "noAccount": "Don't have an account?",
+      "register": "Register here"
+    },
+    "register": {
+      "title": "Create Account",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "hasAccount": "Already have an account?",
+      "login": "Log in here"
+    }
+  },
+  "booking": {
+    "title": "Book Your Appointment",
+    "serviceSelection": "Select Service",
+    "stylistSelection": "Select Stylist",
+    "dateSelection": "Select Date & Time",
+    "yourInfo": "Your Information",
+    "review": "Review & Confirm",
+    "paymentInfo": "Payment Information",
+    "confirmButton": "Confirm Booking",
+    "loginPrompt": "Please log in to book an appointment",
+    "loginButton": "Log In",
+    "or": "or",
+    "continueAsGuest": "Continue as guest"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}",
+    "upcomingAppointments": "Upcoming Appointments",
+    "pastAppointments": "Past Appointments",
+    "noAppointments": "No appointments scheduled",
+    "bookNew": "Book New Appointment"
+  },
+  "footer": {
+    "address": "5912 NW 16th St, Oklahoma City, OK 73127",
+    "hours": "Open daily: 6am - 11pm CTZ",
+    "phone": "(405) 510-6431",
+    "email": "info@TiakoSalons.com",
+    "copyright": "© {{year}} Tiako Salon. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "required": "Required",
+    "optional": "Optional",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "distance": "{{distance}} miles away",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "language": "Language"
+  }
+}

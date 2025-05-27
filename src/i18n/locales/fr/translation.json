@@ -1,0 +1,118 @@
+{
+  "app": {
+    "name": "Coiffure+",
+    "fullName": "Coiffure+ par Tiako Salon"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "booking": "Réserver",
+    "dashboard": "Tableau de Bord",
+    "profile": "Profil",
+    "admin": "Administration",
+    "login": "Connexion",
+    "register": "Inscription",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "hero": {
+      "title": "Tressage Expert",
+      "subtitle": "Spécialistes en Cheveux 100% Naturels",
+      "cta": "Réserver Maintenant"
+    },
+    "services": {
+      "title": "Nos Services",
+      "viewAll": "Voir Tous les Services"
+    },
+    "about": {
+      "title": "À Propos de Tiako Salon",
+      "subtitle": "Premier Salon de Tressage à Oklahoma City",
+      "description": "Tiako Salon est spécialisé dans les techniques de tressage de cheveux 100% naturels, offrant des services experts pour tous types de cheveux. Nos coiffeurs certifiés fournissent des soins personnalisés dans un environnement accueillant.",
+      "learnMore": "En Savoir Plus"
+    },
+    "testimonials": {
+      "title": "Témoignages Clients",
+      "viewAll": "Voir Tous"
+    },
+    "cta": {
+      "title": "Prêt pour un Nouveau Style?",
+      "subtitle": "Réservez votre rendez-vous aujourd'hui",
+      "button": "Réserver Maintenant"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "email": "Adresse Email",
+      "password": "Mot de Passe",
+      "rememberMe": "Se souvenir de moi",
+      "forgotPassword": "Mot de passe oublié?",
+      "submit": "Se Connecter",
+      "noAccount": "Vous n'avez pas de compte?",
+      "register": "Inscrivez-vous ici"
+    },
+    "register": {
+      "title": "Créer un Compte",
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "phone": "Numéro de Téléphone",
+      "password": "Mot de Passe",
+      "confirmPassword": "Confirmer le Mot de Passe",
+      "submit": "S'inscrire",
+      "hasAccount": "Vous avez déjà un compte?",
+      "login": "Connectez-vous ici"
+    }
+  },
+  "booking": {
+    "title": "Réservez Votre Rendez-vous",
+    "serviceSelection": "Sélectionner un Service",
+    "stylistSelection": "Sélectionner un Coiffeur",
+    "dateSelection": "Sélectionner Date et Heure",
+    "yourInfo": "Vos Informations",
+    "review": "Vérifier et Confirmer",
+    "paymentInfo": "Informations de Paiement",
+    "confirmButton": "Confirmer la Réservation",
+    "loginPrompt": "Veuillez vous connecter pour réserver un rendez-vous",
+    "loginButton": "Se Connecter",
+    "or": "ou",
+    "continueAsGuest": "Continuer en tant qu'invité"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue, {{name}}",
+    "upcomingAppointments": "Rendez-vous à Venir",
+    "pastAppointments": "Rendez-vous Passés",
+    "noAppointments": "Aucun rendez-vous programmé",
+    "bookNew": "Réserver un Nouveau Rendez-vous"
+  },
+  "footer": {
+    "address": "5912 NW 16th St, Oklahoma City, OK 73127",
+    "hours": "Ouvert tous les jours: 6h - 23h CTZ",
+    "phone": "(405) 510-6431",
+    "email": "info@TiakoSalons.com",
+    "copyright": "© {{year}} Tiako Salon. Tous droits réservés.",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions d'Utilisation"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant",
+    "required": "Obligatoire",
+    "optional": "Optionnel",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "distance": "À {{distance}} miles",
+    "darkMode": "Mode Sombre",
+    "lightMode": "Mode Clair",
+    "language": "Langue"
+  }
+}
