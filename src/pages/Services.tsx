@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/Card';
 
 const services = [
   {
@@ -32,7 +32,7 @@ export default function Services() {
               <CardTitle>{service.title}</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-gray-600">{service.description}</p>
+              <p className="text-gray-600 dark:text-gray-400">{service.description}</p>
               <div className="mt-4">
                 <span className="text-2xl font-bold">${service.price}</span>
               </div>
